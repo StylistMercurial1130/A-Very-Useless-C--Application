@@ -1,0 +1,16 @@
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.exe
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.deps.json
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.runtimeconfig.json
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.dll
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\ref\Application.dll
+E:\repos\A_Very_Useless_C_Sharp_Application\App\bin\Debug\net5.0\Application.pdb
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.dll
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\ref\Application.dll
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.pdb
+E:\repos\A_Very_Useless_C_Sharp_Application\App\obj\Debug\net5.0\Application.genruntimeconfig.cache
